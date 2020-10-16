@@ -112,3 +112,4 @@ files:
   fonts/static/ttf/Fraunces9ptSoft-SemiBoldItalic.ttf: static/Fraunces9ptSoft-SemiBoldItalic.ttf
   fonts/static/ttf/Fraunces9ptSoft-Thin.ttf: static/Fraunces9ptSoft-Thin.ttf
   fonts/static/ttf/Fraunces9ptSoft-ThinItalic.ttf: static/Fraunces9ptSoft-ThinItalic.ttf
+repository_url: https://github.com/arrowtype/Fraunces
